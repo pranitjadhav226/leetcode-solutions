@@ -9,4 +9,9 @@ class Solution:
                 j += 1
 
         return j
+
+# LeetCode 27 - Remove Element
+# Approach: Two Pointers
+# Time Complexity: O(n)
+# Space Complexity: O(1)
         
